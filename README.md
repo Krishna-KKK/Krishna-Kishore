@@ -78,6 +78,6 @@ Beyond writing queries and tuning models, I love sharing what I learn with the t
   <h3>✨ Let's collaborate on something awesome! ✨</h3>
   <p>Open to graduate roles, data internships, and technical writing/content collaboration.</p>
   
-  📥 **Email:** [Your Email Here] | 💼 **Portfolio:** [Your Portfolio Link Here]
+  📥 **Email:** kishorekrishna943@gmail.com | 💼 **Portfolio:** https://krishna-kkk.github.io/Port-Folio
 </div>
 ```
