@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/images/gifs/wave.gif" width="30px" alt="hi"> 
   <h1>Hey there, I'm Krishna Kishore!</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Data+Science+Graduate;Aspiring+AI+%26+Data+Engineer;Building+the+Future+with+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Data+Science+Graduate;Aspiring+Business+Analyst+%26+Data+Analyst;Building+the+Future+with+Data" alt="Typing SVG" />
 
   <p>🚀 Turning raw data into actionable insights and intelligent solutions.</p>
 </div>
